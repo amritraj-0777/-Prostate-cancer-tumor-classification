@@ -10,14 +10,14 @@ This project builds a machine learning model to classify prostate cancer tumors 
 
 ## Problem Statement
 Our objective is to predict whether a cancer is benign or malignant using various measurements of the tumor. The dataset includes the following columns:
-•	id
-•	radius
-•	texture
-•	perimeter
-•	area
-•	 smoothness
-•	 compactness
-•	 symmetry
-•	fractal_dimension
-•	diagnosis_result(target variable)
+**id**
+**radius**
+**texture**
+**perimeter**
+**area**
+**smoothness**
+**compactness**
+**symmetry**
+**fractal_dimension**
+**diagnosis_result(target variable)**
 
