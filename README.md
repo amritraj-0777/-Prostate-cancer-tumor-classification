@@ -85,3 +85,9 @@ For Random Forest, hyperparameter tuning **did** improve performance: the tuned 
    ```bash
    git clone https://github.com/your-username/prostate-cancer-tumor-classification.git
    cd prostate-cancer-tumor-classification
+
+
+## Disclaimer
+
+This analysis is for educational purposes only.  
+The models and results are not validated for clinical use and should not be used for real medical decisions.
